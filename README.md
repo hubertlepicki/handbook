@@ -1,6 +1,6 @@
 # Handbook
 
-This is the thoughtbot employee handbook, which outlines company policies and employee benefits.
+This is the thoughtbot employee handbook, which outlines company policies and employee benefits.  This is an internal reference for employees only.  Process best practices belong in the [Playbook][playbook].  Technical best practices belongs in the [Guides][guides].
 
 ## Policies
 
@@ -22,3 +22,6 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Parking and Transportation](benefits/parking-and-transportation.md)
 * [Work Leave](benefits/work-leave.md)
 * [Workers' Compensation Insurance](benefits/workers-compensation-insurance.md)
+
+[playbook]: http://playbook.thoughtbot.com/
+[guides]: http://github.com/thoughtbot/guides
