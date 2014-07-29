@@ -20,3 +20,4 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Paid Time Off](benefits/paid-time-off.md)
 * [Parking and Transportation](benefits/parking-and-transportation.md)
 * [Work Leave](benefits/work-leave.md)
+* [Workers' Compensation Insurance](benefits/workers-compensation-insurance.md)
