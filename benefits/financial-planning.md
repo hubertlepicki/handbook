@@ -1,4 +1,4 @@
-# Benefits: Financial Planning
+# Financial Planning
 
 As a thoughtbot employee, you are eligible for free financial planning with Martha Slaight.
 

@@ -1,4 +1,4 @@
-# Benefits: 529 Plan
+# 529 Plan
 
 The company offers a CollegeAmerica 529 plan through American Funds. 529 plans allow you to save money in a tax-deferred account for higher education: undergrad, graduate, professional or vocational. Our plan allows for deductions to be made directly from your paycheck and deposited into you 529 account. Our plan does not accept outside checks.
 

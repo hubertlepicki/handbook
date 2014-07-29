@@ -1,4 +1,4 @@
-# Benefits: Paid Time Off
+# Paid Time Off
 
 Our vacation policy is that employees can use their own judgment when taking time off and there will not be a set limit of time off that must be adhered to.
 

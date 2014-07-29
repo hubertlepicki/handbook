@@ -1,4 +1,4 @@
-# Benefits: Employee Referral Bonus
+# Employee Referral Bonus
 
 The company will pay a $5,000 referral bonus to any employee who refers an applicant to our company who is hired by the company to a full-time position.
 

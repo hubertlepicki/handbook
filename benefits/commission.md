@@ -1,4 +1,4 @@
-# Benefits: Commission
+# Commission
 
 The Company will pay Employees a commission on revenues it receives from each project which the Employee procures.
 

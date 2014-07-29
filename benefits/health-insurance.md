@@ -1,5 +1,4 @@
-# Benefits: Health Insurance
-
+# Health Insurance
 
 ## Questions
 

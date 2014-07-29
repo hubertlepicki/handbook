@@ -1,4 +1,4 @@
-# Benefits: Conferences
+# Conferences
 
 The company will pay 50% of all expenses for approved job-related conferences and seminars.  If you're speaking at the conference, we'll pay 100% of the expenses.
 

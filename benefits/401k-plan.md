@@ -1,4 +1,4 @@
-# Benefits: 401(k)
+# 401(k) Plan
 
 Our company provides eligible employees with a 401(k) Qualified Retirement plan to assist with long-term savings for retirement.
 
