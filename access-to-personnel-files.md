@@ -1,0 +1,3 @@
+# Access to Personnel Files
+
+Upon written request, you may inspect your own personnel file once each year. Inspections will be held on company premises in the presence of a company official. Contact the business operations manager to arrange a time to view these records. You will be permitted to review records related to your qualification for employment, compensation and disciplinary action. You are not permitted access to any letter of reference maintained by the company. If you disagree with the accuracy of any statement in the records and no correction can be agreed upon, you may submit an explanatory statement, which will be attached to the records.
