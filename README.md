@@ -18,3 +18,4 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Financial Planning](benefits/financial-planning.md)
 * [Health Insurance](benefits/health-insurance.md)
 * [Paid Time Off](benefits/paid-time-off.md)
+* [Parking and Transportation](benefits/parking-and-transportation.md)
