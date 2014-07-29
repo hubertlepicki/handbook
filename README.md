@@ -7,6 +7,7 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Acceptable use of Electronic Communications](policies/acceptable-use-of-electronic-communications.md)
 * [Access to Personnel Files](policies/access-to-personnel-files.md)
 * [Attendance and Punctuality](policies/attendance-and-punctuality.md)
+* [Client Confidentiality](policies/client-confidentiality.md)
 
 ## Benefits
 
