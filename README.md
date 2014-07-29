@@ -9,6 +9,7 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Attendance and Punctuality](policies/attendance-and-punctuality.md)
 * [Client Confidentiality](policies/client-confidentiality.md)
 * [Company Property](policies/company-property.md)
+* [Computer Software Licensing](policies/computer-software-licensing.md)
 
 ## Benefits
 
