@@ -19,6 +19,7 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Leaving the Company](policies/leaving-the-company.md)
 * [Outside Employment](policies/outside-employment.md)
 * [Pay](policies/pay.md)
+* [Reference Checks](policies/reference-checks.md)
 
 ## Benefits
 
