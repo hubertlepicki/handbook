@@ -16,6 +16,8 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Expenses](policies/expenses.md)
 * [Holidays](policies/holidays.md)
 * [Inter-Office Travel](policies/inter-office-travel.md)
+* [Leaving the Company](policies/leaving-the-company.md)
+* [Outside Employment](policies/outside-employment.md)
 
 ## Benefits
 
