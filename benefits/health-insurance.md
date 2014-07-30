@@ -26,6 +26,10 @@ There may be times where a physician asks for payment up-front for a surgery or 
 
 You should never have to pay out of pocket and then be reimbursed.
 
+## Find a Doctor, Review Benefits, Change your PCP
+
+It's easy to find a doctor, review your benefits or charges, and change your PCP on BCBS website.  [Log-in or create a BCBS account][bcbs-website].
+
 ## Flexible Spending Account
 
 We provide access to a [Flexible Spending Account][fsa-wikipedia] - which allows you to put aside up to $2,500 per year, pre-tax, which can be used to pay for eligible medical expenses.  In past years any unused amount would be "lost" when the plan year reset.  Starting in 2013, the IRS now allows up to $500 to rollover to the next plan year.
@@ -50,7 +54,7 @@ You receive a Visa Debit card from Choice Strategies for using the DCA funds. Th
 
 If you opt-in to dental insurance we’ll pay 50% of the cost of the Basic, Preventative Plan. If you opt in your costs would be $8.72/month for an individual and $28.52/month for a family.
 
-You can also choose to upgrade your Dental coverage to the Enhanced plan. If you opt in you are responsible for the difference in the coverage cost. The cost is $41.19/month for an individual and $108.81/month for a family.
+You can also choose to upgrade your Dental coverage to the Enhanced plan. If you opt in you are responsible for the difference in the coverage cost. The cost is $41.19/month for an individual and $108.81/month for a family.  View the entire [Enhanced Plan policy description][enhanced-dental-plan], or read the summary in the [attached documents](TODO).
 
 ## Healthy Actions 
 
@@ -69,6 +73,8 @@ This is up to a $150 reimbursement if you belong to a health club. You can claim
 ## Vision Plan
 
 We do not have a separate vision plan, but our medical insurance has basic vision benefits.
+
+You can receive discounts on glasses and contacts at Davis Vision through BCBS or at VSP through Principal Dental. Info below.
 
 ## Changing Information
 
@@ -90,3 +96,6 @@ Upon termination you may be entitled to continuation or conversion of the group 
 [healthy-actions]: https://basecamp.com/1719045/projects/4290451/messages/24926543
 [fitness-benefit-form]: http://www.bluecrossma.com/common/en_US/pdfs/New_SOB/55-0763_Fitness_Reimbursement_Form.pdf
 [enrollment-wufoo-form]: https://thoughtbot.wufoo.com/forms/xh4843416db7ib/
+[bcbs-website]: https://www.bluecrossma.com/wps/portal/login
+[enhanced-dental-plan]: https://www.dropbox.com/s/s0wdutovlof9wel/Principal%20Dental-ENHANCED%20policy%20description.pdf
+
