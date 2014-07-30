@@ -21,6 +21,8 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Pay](policies/pay.md)
 * [Reference Checks](policies/reference-checks.md)
 * [Standards of Conduct](policies/standards-of-conduct.md)
+* [Substance Abuse](policies/substance-abuse.md)
+* [Travel Overview](policies/travel-overview.md)
 
 ## Benefits
 
