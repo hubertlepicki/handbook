@@ -13,6 +13,7 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Conflict of Interest / Code of Ethics](policies/conflict-of-interest-code-of-ethics.md)
 * [Emergency Conditions](policies/emergency-conditions.md)
 * [Employment of Relatives](policies/employment-of-relatives.md)
+* [Expenses](policies/expenses.md)
 
 ## Benefits
 
