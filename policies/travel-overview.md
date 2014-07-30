@@ -36,5 +36,5 @@ Eligible full-time employees can take advantage of this benefit upon starting wi
 
 Apprentices are not eligible for this benefit. Apprentices who are promoted to Developer or Designer become eligible on the first day of their new position.
 
-[conferences]: policies/conferences.md
-[inter-office-travel]: policies/inter-office-travel.md
+[conferences]: conferences.md
+[inter-office-travel]: inter-office-travel.md
