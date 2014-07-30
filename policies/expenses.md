@@ -61,7 +61,7 @@ General, Learn or Consulting: Consulting includes meet-ups, conferences or other
 #### Examples
 
 |Expense|Categorization|
-|:-|:-|
+|:------|:-------------|
 |Lunch at RailsConf for NYC employee|Meal / NYC / Consulting|
 |Taxi to client meeting in Denver|Travel / Denver / Consulting|
 |Propane for laptop in Austin|Software / Austin / General|

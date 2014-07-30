@@ -21,7 +21,7 @@ Apprentices are eligible for paid time off as well, but time off should be limit
 ## PTO Categories
 
 |Category|Description|
-|-|-|
+|--------|-----------|
 |PTO - Vacation (Semester) | Non-working time-off where you are on vacation|
 |PTO - Sick Family Care (Vård of närstående) | Non-working time-off where you are taking care of a sick immediate family member other than a child.|
 |PTO - Sick Day (Sjuk) | Non-working time off where you are sick.|
