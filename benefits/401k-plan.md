@@ -34,11 +34,10 @@ Apprentices are not eligible for the 401(k) plan. Apprentices who are promoted t
 
 If you would like to rollover an existing 401(k), please contact our plan administrator: [Michael Jageler][plan-admin-email].
  
-## ﻿Fine Print
-﻿
-Chad Pytel & Matthew Jankowski are the Plan's Trustees.
-Anna Miragliuolo is an Authorized Signer (non-Trustee.)
+## Fine Print
 
+Chad Pytel & Matthew Jankowski are the Plan's Trustees.  
+Anna Miragliuolo is an Authorized Signer (non-Trustee.)
 
 [wikipedia]: http://en.wikipedia.org/wiki/401(k)
 [benefits-email]: mailto:benefits@thoughtbot.com

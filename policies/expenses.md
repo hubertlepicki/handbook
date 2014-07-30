@@ -98,3 +98,7 @@ Deductions will typically occur in the paycheck immediately following the expens
 ## Personal Expenses
 
 The corporate credit cards are not for personal expenses.  They are for business expenses only.  Ask your manager if you have an exceptional financial circumstance where the company might provide personal assistance via payroll advance or some other means.
+
+[amex-link]: https://basecamp.com/1719045/projects/4290451-everyone/documents/5496626-american-express
+[mastercard-link]: https://basecamp.com/1719045/projects/4290451/documents/5496640
+[shoeboxed-link]: https://basecamp.com/1719045/projects/4290451-everyone/documents/5496647-shoeboxed)%C2%A0with
