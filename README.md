@@ -15,6 +15,7 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Employment of Relatives](policies/employment-of-relatives.md)
 * [Expenses](policies/expenses.md)
 * [Holidays](policies/holidays.md)
+* [Inter-Office Travel](policies/inter-office-travel.md)
 
 ## Benefits
 
