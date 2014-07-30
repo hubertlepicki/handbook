@@ -11,6 +11,7 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Company Property](policies/company-property.md)
 * [Computer Software Licensing](policies/computer-software-licensing.md)
 * [Conflict of Interest / Code of Ethics](policies/conflict-of-interest-code-of-ethics.md)
+* [Emergency Conditions](policies/emergency-conditions.md)
 
 ## Benefits
 
