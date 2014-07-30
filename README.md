@@ -20,6 +20,7 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 * [Outside Employment](policies/outside-employment.md)
 * [Pay](policies/pay.md)
 * [Reference Checks](policies/reference-checks.md)
+* [Standards of Conduct](policies/standards-of-conduct.md)
 
 ## Benefits
 
