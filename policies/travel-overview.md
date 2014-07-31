@@ -26,10 +26,6 @@ When an employee takes a personal detour or extension before or after any type o
 
 When an employee has an already scheduled personal trip near a thoughtbot location, we encourage them to stop in and work from the thoughtbot office during their trip. The company will cover whatever additional costs are incurred by extending the personal trip to include the time at the thoughtbot location office. This type of trip must be approved in advance by a manager.
 
-## Leadership Team & Managing Director Travel
-
-All types of work travel are fully covered for the Leadership Team and Managing Directors.
-
 ## Eligibility
 
 Eligible full-time employees can take advantage of this benefit upon starting with thoughtbot.
