@@ -14,9 +14,7 @@ We pay 100% of the medical insurance premiums for both families and individuals.
 
 We are able to provide a deductible of $500 for individuals and $1000 for families by using a Health Reimbursement Account (HRA) administered by Choice Strategies. 
 
-To pay a health care provider for service, you should present them with your BCBS Insurance Card and personally pay the appropriate co-pay amount for the service. When you go for service, it will be helpful for you to know what the co-pay is. You can find a list of all the co-pay amounts in these documents:
-* [Massachusetts Resident Co-Pays][mass-copays-document]
-* [Outside of MA][outside-mass-copay-document]
+To pay a health care provider for service, you should present them with your BCBS Insurance Card and personally pay the appropriate co-pay amount for the service. When you go for service, it will be helpful for you to know what the co-pay is. You can find a list of all the co-pay amounts in the [benefits dropbox folder][benefits-forms].
 
 The provider will bill BCBS for the cost of service beyond the co-pay, and BCBS will cover those charges.
 
