@@ -54,13 +54,13 @@ You receive a Visa Debit card from Choice Strategies for using the DCA funds. Th
 
 If you opt-in to dental insurance we’ll pay 50% of the cost of the Basic, Preventative Plan. If you opt in your costs would be $8.72/month for an individual and $28.52/month for a family.
 
-You can also choose to upgrade your Dental coverage to the Enhanced plan. If you opt in you are responsible for the difference in the coverage cost. The cost is $41.19/month for an individual and $108.81/month for a family.  View the entire [Enhanced Plan policy description][enhanced-dental-plan], or read the summary in the [attached documents](TODO).
+You can also choose to upgrade your Dental coverage to the Enhanced plan. If you opt in you are responsible for the difference in the coverage cost. The cost is $41.19/month for an individual and $108.81/month for a family.  View the entire [Enhanced Plan policy description][enhanced-dental-plan], or read the summary in the [attached documents][benefits-forms].
 
 ## Healthy Actions 
 
 You can get a $300 Visa gift card for being relatively healthy, getting a physical and submitting a simple form. If you're doctor wants you to get healthier, you'll receive $100 gift card after you submit the form and the remaining $200 if you achieve your goal. 
 
-[Healthy Actions Instructions][healthy-actions]
+[Healthy Actions Instructions][benefits-forms]
 
 This is only open to employees (primary subscribers, not your entire family.) You have until March 14, 2015 to turn in your form. The sooner you turn in your form- the sooner you get your $$. (Gift cards arrive approximately 3 weeks after the form is submitted.)
 
@@ -68,7 +68,7 @@ This is only open to employees (primary subscribers, not your entire family.) Yo
 
 This is up to a $150 reimbursement if you belong to a health club. You can claim your Fitness Benefit after you’ve belonged to your health club and been a Blue Cross Blue Shield of Massachusetts member for a full four months (in a calendar year).
 
-[Enrollment form][fitness-benefit-form]
+[Enrollment form][benefits-forms]
 
 ## Vision Plan
 
@@ -93,9 +93,7 @@ Upon termination you may be entitled to continuation or conversion of the group 
 [benefits-email]: mailto:benefits@thoughtbot.com
 [fsa-wikipedia]: http://en.wikipedia.org/wiki/Flexible_spending_account
 [choice-strategies-account]: https://www.mywealthcareonline.com/choice-strategies/Register.aspx
-[healthy-actions]: https://basecamp.com/1719045/projects/4290451/messages/24926543
-[fitness-benefit-form]: http://www.bluecrossma.com/common/en_US/pdfs/New_SOB/55-0763_Fitness_Reimbursement_Form.pdf
+[benefits-forms]: https://www.dropbox.com/sh/x3real5t8u8ls8w/AADbyf9wI6labcdSKRo8vXVja
 [enrollment-wufoo-form]: https://thoughtbot.wufoo.com/forms/xh4843416db7ib/
 [bcbs-website]: https://www.bluecrossma.com/wps/portal/login
 [enhanced-dental-plan]: https://www.dropbox.com/s/s0wdutovlof9wel/Principal%20Dental-ENHANCED%20policy%20description.pdf
-
