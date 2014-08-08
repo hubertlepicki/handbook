@@ -1,6 +1,6 @@
 # Handbook
 
-This is the thoughtbot employee handbook, which outlines company policies and employee benefits.  This is an internal reference for employees only.  Process best practices belong in the [Playbook][playbook].  Technical best practices belongs in the [Guides][guides].
+This is the thoughtbot employee handbook, which outlines company policies and employee benefits. This is an internal reference for employees only. Process best practices belong in the [Playbook][playbook]. Technical best practices belongs in the [Guides][guides]. You can find information about thoughtbot, logos, and other brand assets in the [Presskit][presskit].
 
 ## Policies
 
@@ -41,3 +41,4 @@ This is the thoughtbot employee handbook, which outlines company policies and em
 
 [playbook]: http://playbook.thoughtbot.com/
 [guides]: http://github.com/thoughtbot/guides
+[presskit]: http://github.com/thoughtbot/presskit
