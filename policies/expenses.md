@@ -35,7 +35,9 @@ If we need to associate the account with an owner/buyer/licensee, use [purchasin
 
 ## Invoices
 
-If you receive an invoice that needs to be paid by check or wire transfer, the invoice should be sent to [purchasing@thoughtbot.com](mailto:purchasing@thoughtbot.com).
+If you receive an invoice that needs to be paid by check, wire transfer, or paypal, the invoice should be sent to [purchasing@thoughtbot.com](mailto:purchasing@thoughtbot.com).
+
+Include any notes about how the invoice should be paid or when in this email along with the invoice.
 
 Invoices should ﻿not ﻿be sent to shoeboxed. 
 
