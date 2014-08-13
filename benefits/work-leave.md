@@ -22,7 +22,7 @@ Unless otherwise stated, your benefits will not continue to accrue, and you will
 
 ## Other Employment
 
-While on leave, employees may not accept other employment or apply for unemployment insurance. Acceptance of other employment while on leave will be treated as a voluntary resignation from employment.
+While on leave, employees may not apply for unemployment insurance, and must follow the policy for [Outside Employment][outside-employment].
 
 ## Types Of Leave
 
@@ -58,3 +58,4 @@ Military orders should be presented to the management and arrangements for leave
 Any employee who is requested to perform service as a juror shall be given unpaid time off while serving on the jury.
 
 [pto-policy]: paid-time-off.md
+[outside-employment]: outside-employment.md
