@@ -58,7 +58,7 @@ You can also choose to upgrade your Dental coverage to the Enhanced plan. If you
 
 You can get a $300 Visa gift card for being relatively healthy, getting a physical and submitting a simple form. If you're doctor wants you to get healthier, you'll receive $100 gift card after you submit the form and the remaining $200 if you achieve your goal. 
 
-[Healthy Actions Instructions][benefits-forms]
+[Healthy Actions Instructions][healthy-actions]
 
 This is only open to employees (primary subscribers, not your entire family.) You have until March 14, 2015 to turn in your form. The sooner you turn in your form- the sooner you get your $$. (Gift cards arrive approximately 3 weeks after the form is submitted.)
 
@@ -95,3 +95,4 @@ Upon termination you may be entitled to continuation or conversion of the group 
 [enrollment-wufoo-form]: https://thoughtbot.wufoo.com/forms/xh4843416db7ib/
 [bcbs-website]: https://www.bluecrossma.com/wps/portal/login
 [enhanced-dental-plan]: https://www.dropbox.com/s/s0wdutovlof9wel/Principal%20Dental-ENHANCED%20policy%20description.pdf
+[healthy-actions]: https://basecamp.com/1719045/projects/4290451/messages/24926543
