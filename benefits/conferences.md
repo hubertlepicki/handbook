@@ -20,4 +20,4 @@ If you are signing-up for a conference that sells out quickly, please purchase t
 
 ## Expenses while at the conference
 
-Use your company card for meals & transportation while at the conference. Then email all the receipts to reimbursemets@thoughtbot.com so that the 50% you owe can be deducted from your paycheck. Please write the names of any other people included in the purchase on the receipt.
+Use your company card for meals & transportation while at the conference. Then email all the receipts to reimbursements@thoughtbot.com so that the 50% you owe can be deducted from your paycheck. Please write the names of any other people included in the purchase on the receipt.
