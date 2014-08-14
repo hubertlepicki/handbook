@@ -66,7 +66,7 @@ This is only open to employees (primary subscribers, not your entire family.) Yo
 
 This is up to a $150 reimbursement if you belong to a health club. You can claim your Fitness Benefit after you’ve belonged to your health club and been a Blue Cross Blue Shield of Massachusetts member for a full four months (in a calendar year).
 
-[Enrollment form][benefits-forms]
+[Enrollment form][fitness]
 
 ## Vision Plan
 
@@ -96,3 +96,4 @@ Upon termination you may be entitled to continuation or conversion of the group 
 [bcbs-website]: https://www.bluecrossma.com/wps/portal/login
 [enhanced-dental-plan]: https://www.dropbox.com/s/s0wdutovlof9wel/Principal%20Dental-ENHANCED%20policy%20description.pdf
 [healthy-actions]: https://basecamp.com/1719045/projects/4290451/messages/24926543
+[fitness]: https://www.dropbox.com/sh/oax6yy3ltecyhji/AACwXnr8_HBH3YP34DDmjGy7a/Health%20Insurance/2014_Fitness_Benefit_Form.pdf
