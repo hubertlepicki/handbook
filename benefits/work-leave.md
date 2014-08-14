@@ -1,6 +1,6 @@
 # Work Leave
 
-The foundation of all of our leave policies is our [Paid Time Off Policy][paid time off].
+The foundation of all of our leave policies is our [Paid Time Off Policy][pto-policy].
 
 Taking time off can affect thoughtbot’s cash flow, project schedules, and client expectations, so we appreciate being informed as far ahead as possible.
 
@@ -57,4 +57,4 @@ Military orders should be presented to the management and arrangements for leave
 
 Any employee who is requested to perform service as a juror shall be given unpaid time off while serving on the jury.
 
-[pto-policy]: policies/paid-time-off.md
+[pto-policy]: benefits/paid-time-off.md
