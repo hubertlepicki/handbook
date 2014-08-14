@@ -14,7 +14,7 @@ Your pay will be deposited into your bank account through our direct deposit pro
 
 ## Payroll System
 
-For US employees, we use [ViewPayroll][viewpayroll-link]. You can use it to view your pay stubs, pay dates, and W2/1099, and paycheck deductions (e.g. 401K). If you do not know your username/password for this, please [email admin](mailto:admin@thoughtbot.com).
+For US employees, we use [ViewPayroll][viewpayroll-link]. You can use it to view your pay stubs, pay dates, and W2/1099, and paycheck deductions (e.g. 401K). If you do not know your username/password for this, please [email benefits](mailto:benefits@thoughtbot.com).
 
 For employees outside of the US, we do not have payroll online. Please email [management@thoughtbot.com](mailto:management@thoughtbot.com) if you have questions about your payroll.
 
