@@ -1,6 +1,6 @@
 # Work Leave
 
-The foundation of all of our leave policies is our [Paid Time Off Policy][pto-policy].
+The foundation of all of our leave policies is our [Paid Time Off Policy][paid time off].
 
 Taking time off can affect thoughtbot’s cash flow, project schedules, and client expectations, so we appreciate being informed as far ahead as possible.
 
