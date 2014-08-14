@@ -34,5 +34,5 @@ Apprentices are eligible for paid time off as well, but time off should be limit
 [team-schedule]: http://team.thoughtbot.com/schedule
 [admin-email]: mailto:admin@thoughtbot.com
 [thoughtbot-calendar]: http://calendar.thoughtbot.com/
-[leave-of-absence]: policies/work-leave.md
+[leave-of-absence]: work-leave.md
 [holiday-list]: policies/holidays.md
