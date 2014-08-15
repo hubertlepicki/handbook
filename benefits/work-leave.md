@@ -32,7 +32,7 @@ Under special circumstances, full-time and part-time regular employees may be gr
 
 ### Parental Leave
 
-Employees are eligible for a leave of absence without pay upon the birth or adoption of a child. Maternity/Paternity leave may begin up to six months after of the birth or adoption of the child.
+Employees are eligible for a leave of absence without pay upon the birth or adoption of a child. Maternity/Paternity leave may begin up to six months after the birth or adoption of the child.
 
 Employees seeking parental leave must provide a minimum of 30 days advance notice of their intent to take parental leave and the anticipated date of their return.
 The company will continue to fully contribute to insurance premiums per company policy for up to 6 months.
