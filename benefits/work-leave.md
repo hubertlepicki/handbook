@@ -1,16 +1,12 @@
 # Work Leave
 
-The foundation of all of our leave policies is our [Paid Time Off Policy][pto-policy].
+Any leave taken for 3 consecutive weeks or under is considered [Paid Time Off][pto-policy]. Any leave longer than 3 weeks is unpaid leave.
 
-Taking time off can affect thoughtbot’s cash flow, project schedules, and client expectations, so we appreciate being informed as far ahead as possible.
+Taking time off can affect thoughtbot’s cash flow, project schedules, and client expectations, so we appreciate being informed as far ahead as possible, and you should coordinate your leave with your manager.
 
-Communicate with your team, clients, and management about the leave you will be taking.
+Employees seeking leave must provide a minimum of 30 days advance written notice of their intent to take leave and the anticipated date of their return. Email admin@thoughtbot.com with your leave request.
 
-## PTO vs. Extended Leave
-
-Any leave taken for 3 consecutive weeks or under is considered PTO. Any approved consecutive leave following the PTO period stated above is considered unpaid leave.
-
-For example, if you plan to take 4 weeks off for maternity/paternity leave, You are entitled to: 3 weeks of PTO + 1 week of unpaid leave
+Once your leave is approved, proactively communicate with your team, clients, and management about the leave you will be taking and when you'll return.
 
 ## Medical Insurance
 
@@ -28,13 +24,12 @@ While on leave, employees may not apply for unemployment insurance, and must fol
 
 ### General Leave of Absence
 
-Under special circumstances, full-time and part-time regular employees may be granted a leave of absence without pay. The granting of this type of leave is normally for compelling reasons and is dependent upon the written approval of the CEO.
+Under special circumstances, employees may be granted a leave of absence without pay. The granting of this type of leave is is dependent upon the written approval of the CEO.
 
 ### Parental Leave
 
-Employees are eligible for a leave of absence without pay upon the birth or adoption of a child. Maternity/Paternity leave may begin up to six months after the birth or adoption of the child.
+Employees are eligible for a leave of absence without pay upon the birth or adoption of a child. Parental leave may begin up to six months after the birth or adoption of the child.
 
-Employees seeking parental leave must provide a minimum of 30 days advance notice of their intent to take parental leave and the anticipated date of their return.
 The company will continue to fully contribute to insurance premiums per company policy for up to 6 months.
 
 ### Disability Leave

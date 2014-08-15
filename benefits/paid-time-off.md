@@ -1,6 +1,6 @@
 # Paid Time Off
 
-Our vacation policy is that employees can use their own judgment when taking time off and there will not be a set limit of time off that must be adhered to.
+Our vacation policy is that employees can use their own judgment when taking time off and there will not be a set limit of time off per year that must be adhered to.
 
 Taking time off can affect thoughtbot's cash flow, project schedules, and client expectations, so we appreciate being informed as far ahead as possible.
 
@@ -10,7 +10,7 @@ Once you've identified the time you'll be taking off, [adjust your weekly schedu
 
 Whenever possible, time off requests are granted, taking into account operating requirements. If you've submitted your time off far enough in advance, you can assume that it is approved unless you hear otherwise.
 
-If you must take an extended period of time off (more than 15 out of 20 business days) this is considered a leave of absence and will fall under the appropriate [leave of absence policy][leave-of-absence].
+If you take an extended period of time off (more than 3 weeks) this is considered a leave of absence and will fall under the appropriate [leave of absence policy][leave-of-absence].
 
 ## Eligibility
 
