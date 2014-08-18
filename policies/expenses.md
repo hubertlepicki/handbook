@@ -39,7 +39,7 @@ If you receive an invoice that needs to be paid by check, wire transfer, or payp
 
 Include any notes about how the invoice should be paid or when in this email along with the invoice.
 
-Invoices should ﻿not ﻿be sent to shoeboxed. 
+Invoices should not be sent to shoeboxed. 
 
 ### Submitting Receipts with Notes to Shoeboxed
 
@@ -101,6 +101,6 @@ Deductions will typically occur in the paycheck immediately following the expens
 
 The corporate credit cards are not for personal expenses.  They are for business expenses only.  Ask your manager if you have an exceptional financial circumstance where the company might provide personal assistance via payroll advance or some other means.
 
-[amex-link]: https://basecamp.com/1719045/projects/4290451-everyone/documents/5496626-american-express
-[mastercard-link]: https://basecamp.com/1719045/projects/4290451/documents/5496640
-[shoeboxed-link]: https://basecamp.com/1719045/projects/4290451-everyone/documents/5496647-shoeboxed)%C2%A0with
+[amex-link]: https://github.com/thoughtbot/cookbook/blob/master/purchasing/credit-card.md#american-express-credit-card
+[mastercard-link]: https://github.com/thoughtbot/cookbook/blob/master/purchasing/credit-card.md#mastercard
+[shoeboxed-link]: https://github.com/thoughtbot/cookbook/blob/master/purchasing/expenses.md
