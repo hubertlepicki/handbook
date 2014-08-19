@@ -1,6 +1,8 @@
 # Handbook
 
-This is the thoughtbot employee handbook, which outlines company policies and employee benefits. This is an internal reference for employees only.  The [Guidebook](https://github.com/thoughtbot/guidebook) contains pointers to more resources.
+This is the thoughtbot employee handbook, which outlines company policies and
+employee benefits. The [Guidebook](https://github.com/thoughtbot/guidebook)
+contains pointers to more resources.
 
 ## Policies
 
