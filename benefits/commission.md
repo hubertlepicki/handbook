@@ -2,9 +2,10 @@
 
 The Company will pay Employees a commission on revenues it receives from each project which the Employee procures.
 
-**Rate:** 5% of gross revenues  
-**Time cutoff:** Commission is paid on revenue received in the 12 months after a project begins.  
-**Rate floor:** Commission is paid only on projects with an effective per-person per-week rate at or above $5,000.
+**Rate:** Commission will consist of 5% of the gross revenues for the project.  This may be split amongst multiple sales-people.  A project does not have to have a sales-person.  
+**Time cutoff:** Commission is earned only on revenue created by work performed in the first 12 months after a project begins.  
+**Payment:** Commission is paid only when payment from clients is received.  
+**Rate floor:** Commission is paid only on projects with an effective rate at or above $5,000/person/week.  
 
 The Company may accept or reject, at its sole discretion, any potential client or project introduced to it by the Employee. If a proposed agreement with any potential client would be on terms less favorable to the Company than the Company’s then current normal terms, the Company and the Employee may, at their mutual discretion, negotiate to attempt to reach a reasonable reduction in the Employee’s commission based on that client, such that the Company will decide to enter into an agreement with that client.
 
@@ -12,7 +13,7 @@ For purposes of this policy the term “procured” means the Employee’s intro
 
 ## Payments
 
-Commission is paid in the first payroll of each month. The payout will include any payments received from clients in the previous month.
+Commission is paid in the first payroll of each month. The payout will include any payments received from clients in the previous month.  In the event the first payroll falls very close to the first of the month, commission may not be calculated in time to include in that payroll.  When this occurs, commission will be paid in the second payroll of the month.
 
 Each month you will receive a report which outlines the individual payments and how much commission you received.
 
