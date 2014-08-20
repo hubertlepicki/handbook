@@ -52,7 +52,7 @@ You receive a Visa Debit card from Choice Strategies for using the DCA funds. Th
 
 If you opt-in to dental insurance we’ll pay 50% of the cost of the Basic, Preventative Plan. If you opt in your costs would be $8.72/month for an individual and $28.52/month for a family.
 
-You can also choose to upgrade your Dental coverage to the Enhanced plan. If you opt in you are responsible for the difference in the coverage cost. The cost is $41.19/month for an individual and $108.81/month for a family.  View the entire [Enhanced Plan policy description][enhanced-dental-plan], or read the summary in the [attached documents][benefits-forms].
+You can also choose to upgrade your Dental coverage to the Enhanced plan. If you opt in you are responsible for the difference in the coverage cost. The cost is $41.19/month for an individual and $108.81/month for a family.  View the entire Enhanced plan or read the summary in the [Dental folder][benefits-dental].
 
 ## Healthy Actions 
 
@@ -97,3 +97,4 @@ Upon termination you may be entitled to continuation or conversion of the group 
 [enhanced-dental-plan]: https://www.dropbox.com/s/s0wdutovlof9wel/Principal%20Dental-ENHANCED%20policy%20description.pdf
 [healthy-actions]: https://basecamp.com/1719045/projects/4290451/messages/24926543
 [fitness]: https://www.dropbox.com/sh/oax6yy3ltecyhji/AACwXnr8_HBH3YP34DDmjGy7a/Health%20Insurance/2014_Fitness_Benefit_Form.pdf
+[benefits-dental]: https://www.dropbox.com/sh/va790z37kyv35ib/AAB2hImQFKZWQFjfaxLehe-da
