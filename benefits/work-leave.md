@@ -28,13 +28,13 @@ Under special circumstances, employees may be granted a leave of absence without
 
 ### Parental Leave
 
-Employees are eligible for both paid and unpaid parental leave after the birth or adoption of a child. The paid and unpaid leave can be combined for up to 6 months parental leave. The company will continue to fully cover medical insurance premiums per company policy for up to 6 months.
+Employees are eligible for both paid and unpaid parental leave after the birth or adoption of a child. The paid and unpaid leave can be combined for up to 6 months of parental leave. The company will continue to fully cover medical insurance premiums per company policy for up to 6 months.
 
 Paid parental leave consists of 3 weeks paid time off for all new parents.
 
 An employee who gives birth also receives 5 weeks of short term disability for a natural birth and 7 weeks of short term disability for a c-section if parental leave is taken immediately following the birth. Short-term disability covers 60% of your salary up to a maximum benefit of $2,500 per week. 
 
-After exhausting paid parental leave, an employee my take unpaid parental leave for the remainder of the 6 months. 
+After exhausting paid parental leave, an employee may take unpaid parental leave for the remainder of the 6 months. 
 
 Parental leave may begin up to six months after the birth or adoption of the child. However, short-term disability is only available to someone who gave birth if the leave is taken immediately after the birth. Employees seeking parental leave must provide a minimum of 30 days advance notice of their intent to take parental leave and the anticipated date of their return.
 
