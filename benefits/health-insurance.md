@@ -12,13 +12,17 @@ Eligible full-time employees will be enrolled in the health plan immediately upo
 
 We pay 100% of the medical insurance premiums for both families and individuals.
 
-We are able to provide a deductible of $500 for individuals and $1000 for families by using a Health Reimbursement Account (HRA) administered by Choice Strategies. 
+We are able to provide a deductible of $500 for individuals and $1000 for families by using a Health Reimbursement Account (HRA) administered by Choice Strategies.
 
 To pay a health care provider for service, you should present them with your BCBS Insurance Card and personally pay the appropriate co-pay amount for the service. When you go for service, it will be helpful for you to know what the co-pay is. You can find a list of all the co-pay amounts in the [benefits dropbox folder][benefits-forms].
 
 The provider will bill BCBS for the cost of service beyond the co-pay, and BCBS will cover those charges.
 
 You will be billed later by the provider for any costs which fall under your deductible amount.  BCBS will bill Choice Strategies for any costs which are above your deductible amount, and covered by the HRA.  You should receive notification of all billing, both before and after you've hit your deductible, for your records.
+
+Your actual plan from BCBS has a deductible of $2000 for an individual and $4000 for a family. If you call BCBS directly, they will tell you that this is what the deductible on your plan is. After you hit $500/$1000 of the deductible, thoughtbot covers the remainder of your deductible using the Choice Strategies HRA. We have a data-feed set-up so Choice Strategies can get info directly from BCBS. Choice Strategies will pay the bill directly after you hit your $500/$1000.
+
+Providers often still send you a bill based on the BCBS deductible because a) they are unaware of our HRA and b) they want money. Usually, this happens at roughly the same time that Choice Strategies gets the data-feed from BCBS, so Choice Strategies has not paid their portion yet. However, once your provider receives payment from Choice Strategies, your provider will send you an adjusted bill. You can log-in to the Choice Strategies website to confirm that they are sending payment.
 
 There may be times where a physician asks for payment up-front for a surgery or other procedure.  This is not how the plan is intended to work, and should not happen. If this does happen, do not pay more than your co-pay amount, and email [benefits@thoughtbot.com][benefits-email] who can help sort things out. We will have Choice Strategies contact the physician's office to explain their process.
 
@@ -36,7 +40,7 @@ You receive a Visa Debit card from Choice Strategies for using the FSA funds. Th
 
 ## Choice Strategies Balance & Claims
 
-You can check the balance of your choice strategies accounts (FSA, HRA, Parking & Transit) and file claims if you paid out of pocket on the Choice Strategies website.
+You can check the balance of your choice strategies accounts (FSA, DCA, Parking & Transit, HRA) and file claims if you paid out of pocket on the Choice Strategies website.
 
 Login or [register online][choice-strategies-account]  
 Your employee ID is your SSN  
