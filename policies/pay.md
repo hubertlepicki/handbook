@@ -41,15 +41,11 @@ When an employee's wages are garnished by a court order, our company is legally 
 
 ## Overtime
 
-Our goal is to work effectively and as such we are committed to a 40 hour work week. In rare circumstances, where a project prompts overtime, we will provide advance notice and require that you get the overtime approved by your supervisor.
+Our goal is to work sustainably and we are committed to a 40 hour work week. Overtime should be extremely rare, and must be approved by your manager.
 
-Hourly (Non-exempt) employees will be paid time and one-half, unless state law provides a greater benefit in which case, we will comply with the state law. All overtime requires prior approval by your supervisor. Salaried (Exempt) employees will be paid straight time for overtime when the overtime is initiated by client demand and only after approved by your supervisor.
+In the rare circumstances where a client project prompts overtime, you should take paid time off equal to the amount of overtime worked, as promptly as possible following the overtime.
 
-Salaried (Exempt) employees will receive compensatory (comp) time for overtime when the overtime is not initiated by client demand, and only after approved by your supervisor. Comp. time needs to be taken within 2 weeks of the overtime, and cannot be carried over.
-
-Time spent traveling to, attending, and returning from company approved activities, such as client visits will be considered time worked. Time spent in another location that is not actual work time will not be counted as work hours. In such event that the employee exceeds 40 hours worked in a week, the employee will be paid overtime in accordance with federal and state regulations.
-
-Only hours that are actually worked are counted toward computing weekly overtime. Holidays and paid days off are not considered hours worked for purposes of computing overtime.
+The above does not apply for non-exempt employees, and local regulations may forbid the above policy of compensatory time. In such cases, the employee will be paid overtime in accordance with local regulations.
 
 [bamboo-link]: https://thoughtbot.bamboohr.com/dashboard/index.php
 [viewpayroll-link]: https://www.viewpayroll.com/SPF/Login/Auth.aspx
