@@ -59,4 +59,4 @@ Military orders should be presented to the management and arrangements for leave
 Any employee who is requested to perform service as a juror shall be given unpaid time off while serving on the jury.
 
 [pto-policy]: paid-time-off.md
-[outside-employment]: outside-employment.md
+[outside-employment]: ../policies/outside-employment.md
